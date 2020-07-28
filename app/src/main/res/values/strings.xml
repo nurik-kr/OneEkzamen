@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewActivity</string>
+    <string name="tvone">tvOne</string>
+    <string name="tvtwo">tvTwo</string>
+    <string name="add">ADD</string>
+    <string name="delete">DELETE</string>
+</resources>
